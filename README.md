@@ -6,8 +6,8 @@
 
 1. [粵語協會方案](http://www.cantonese.asia/attachments/school/canchars.htm)
 2. [粵研社方案](https://www.facebook.com/groups/1637273436585277)
-3. 侯興泉方案[^1]
-4. 張羣顯包睿舜方案[^2]
+3. 侯興泉方案
+4. 張羣顯包睿舜方案
 5. [國家語保方案](http://www.moe.gov.cn/s78/A19/A19_gggs/A19_sjhj/201704/W020170405307025943395.pdf)
 
 
@@ -30,5 +30,5 @@
 
 ## 參考文獻
 
-[^1]: 信息处理用粤方言字词规范研究，2017，侯兴泉，吴南开
-[^2]: 以漢字寫粤語 , et al. “The Representation of Cantonese with Chinese Characters.” Journal of Chinese Linguistics Monograph Series, no. 18, 2002, pp. i-489. JSTOR, www.jstor.org/stable/23826053.
+- 信息处理用粤方言字词规范研究，2017，侯兴泉，吴南开
+- 以漢字寫粤語 , et al. “The Representation of Cantonese with Chinese Characters.” Journal of Chinese Linguistics Monograph Series, no. 18, 2002, pp. i-489. JSTOR, www.jstor.org/stable/23826053.
